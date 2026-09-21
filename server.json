@@ -3,7 +3,7 @@
   "name": "io.github.setozjl/campus-jobs-radar",
   "title": "Campus Jobs Radar 校招雷达",
   "description": "China state-owned enterprise campus recruitment: search jobs, deadlines, official source links.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": {
     "url": "https://github.com/setozjl/campus-jobs-radar-mcp",
     "source": "github"
